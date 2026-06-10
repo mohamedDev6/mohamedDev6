@@ -21,8 +21,8 @@ I enjoy turning ideas into real websites and learning new technologies to improv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
-<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) -->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ### Tools & Platforms
@@ -33,7 +33,6 @@ I enjoy turning ideas into real websites and learning new technologies to improv
 ---
 
 ## 🌱 Currently Learning
-- Tailwind Css
 - TypeScript
 - React.Js
 - Next.Js

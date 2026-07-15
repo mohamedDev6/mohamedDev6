@@ -6,9 +6,9 @@ I enjoy turning ideas into real websites and learning new technologies to improv
 ---
 
 ## 🌟 About Me
-- 🎓 Currently learning Frontend Development (HTML, CSS, JavaScript, Bootstrap, React)  
-- 💡 I love experimenting with web design and creating clean, modern UI  
-- 🚀 Always motivated to build projects that solve real problems  
+- 🎓 Currently learning Frontend Development (HTML, CSS, JavaScript, Bootstrap, React)
+- 💡 I love experimenting with web design and creating clean, modern UI
+- 🚀 Currently expanding my backend knowledge with **Strapi**, building content types, relationships, and REST APIs
 - 📚 Lifelong learner, constantly exploring new tools and frameworks
 
 ---
@@ -21,9 +21,10 @@ I enjoy turning ideas into real websites and learning new technologies to improv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
-<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) -->
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -33,14 +34,15 @@ I enjoy turning ideas into real websites and learning new technologies to improv
 ---
 
 ## 🌱 Currently Learning
+- Building more React.js Projects
+- Deepening my knowledge of **Strapi** (Content Modeling, Relations, Authentication & APIs)
 - TypeScript
-- React.Js
-- Next.Js
+- Next.js
 
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: mohamedeslam6264@gmail.com
+- ✉️ Email: **mohamedeslam6264@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-eslam-m/
 - 🔗 GitHub: https://github.com/mohamedDev6
 
